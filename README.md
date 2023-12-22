@@ -1,1 +1,2 @@
-# python-workshop-2023
+# rsr-workshop
+Codes and Materials related to RSR's python workshop
